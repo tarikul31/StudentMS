@@ -1,0 +1,9 @@
+c:\users\tarik\onedrive\documents\visual studio 2013\Projects\StudentMS\StudentMS\bin\Debug\StudentMS.exe.config
+c:\users\tarik\onedrive\documents\visual studio 2013\Projects\StudentMS\StudentMS\bin\Debug\StudentMS.exe
+c:\users\tarik\onedrive\documents\visual studio 2013\Projects\StudentMS\StudentMS\bin\Debug\StudentMS.pdb
+c:\users\tarik\onedrive\documents\visual studio 2013\Projects\StudentMS\StudentMS\obj\Debug\StudentMS.csprojResolveAssemblyReference.cache
+c:\users\tarik\onedrive\documents\visual studio 2013\Projects\StudentMS\StudentMS\obj\Debug\StudentMS.StudentForm.resources
+c:\users\tarik\onedrive\documents\visual studio 2013\Projects\StudentMS\StudentMS\obj\Debug\StudentMS.Properties.Resources.resources
+c:\users\tarik\onedrive\documents\visual studio 2013\Projects\StudentMS\StudentMS\obj\Debug\StudentMS.csproj.GenerateResource.Cache
+c:\users\tarik\onedrive\documents\visual studio 2013\Projects\StudentMS\StudentMS\obj\Debug\StudentMS.exe
+c:\users\tarik\onedrive\documents\visual studio 2013\Projects\StudentMS\StudentMS\obj\Debug\StudentMS.pdb
