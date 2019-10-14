@@ -1,3 +1,3 @@
 # StudentMS
 * Basically this program perform CROUD operaion
-* Windows form application with SQL Database
+* Windows form C# application with SQL Database
